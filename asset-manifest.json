@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ethwarsaw-hackathon/static/css/main.bb754d33.css",
-    "main.js": "/ethwarsaw-hackathon/static/js/main.6925b0e5.js",
+    "main.js": "/ethwarsaw-hackathon/static/js/main.953432d2.js",
     "static/js/534.ac0b187a.chunk.js": "/ethwarsaw-hackathon/static/js/534.ac0b187a.chunk.js",
     "static/js/995.e7c95df0.chunk.js": "/ethwarsaw-hackathon/static/js/995.e7c95df0.chunk.js",
     "index.html": "/ethwarsaw-hackathon/index.html",
     "main.bb754d33.css.map": "/ethwarsaw-hackathon/static/css/main.bb754d33.css.map",
-    "main.6925b0e5.js.map": "/ethwarsaw-hackathon/static/js/main.6925b0e5.js.map",
+    "main.953432d2.js.map": "/ethwarsaw-hackathon/static/js/main.953432d2.js.map",
     "534.ac0b187a.chunk.js.map": "/ethwarsaw-hackathon/static/js/534.ac0b187a.chunk.js.map",
     "995.e7c95df0.chunk.js.map": "/ethwarsaw-hackathon/static/js/995.e7c95df0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb754d33.css",
-    "static/js/main.6925b0e5.js"
+    "static/js/main.953432d2.js"
   ]
 }
